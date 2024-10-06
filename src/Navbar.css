@@ -1,0 +1,49 @@
+.navbar{
+ background: white;
+ 
+ display: flex;
+ align-items: center;
+justify-content: space-between;
+ padding: 5px;
+}
+
+.links-container{
+    color: black;
+    display: inline-block;
+
+}
+.left-cont{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ul{
+    margin: 0 0 0 40px;
+    padding: 0;
+    display: inline;
+}
+.links li{
+    padding-bottom: 0;
+    padding-top: 0;
+    background: black;
+    color: white;
+    display: inline;
+    border-radius: 5px;
+    margin-left: 25px;
+    margin-right: 25px;
+    padding: 5px 30px 5px 30px;
+
+}
+
+.user li{
+   
+    padding-bottom: 0;
+    padding-top: 0;
+    background: black;
+    color: white;
+    display: inline;
+    border-radius: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 5px 20px 5px 20px;
+}
