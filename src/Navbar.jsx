@@ -9,16 +9,16 @@ function Navbar(){
             <div className='links-container'>
                 <ul className='links'>
                     <li>
-                        Home
+                        <button>Home</button>
                     </li>
                     <li>
-                        Page2
+                    <button>Home</button>
                     </li>
                     <li>
-                        Page3
+                    <button>Home</button>
                     </li>
                     <li>
-                        Page4
+                    <button>Home</button>
                     </li>
                 </ul>
                 
@@ -28,10 +28,10 @@ function Navbar(){
             <div className='user-menu'>
             <ul className='user'>
                     <li>
-                        Login
+                    <button>LogIn</button>
                     </li>
                     <li>
-                        signup
+                    <button>SignUp</button>
                     </li>
                 </ul>
             </div>

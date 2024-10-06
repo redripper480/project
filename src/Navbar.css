@@ -25,13 +25,13 @@ ul{
 .links li{
     padding-bottom: 0;
     padding-top: 0;
-    background: black;
+
     color: white;
     display: inline;
     border-radius: 5px;
-    margin-left: 25px;
-    margin-right: 25px;
-    padding: 5px 30px 5px 30px;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 0px 20px 0px 20px;
 
 }
 
@@ -39,11 +39,9 @@ ul{
    
     padding-bottom: 0;
     padding-top: 0;
-    background: black;
+
     color: white;
     display: inline;
     border-radius: 5px;
-    margin-left: 5px;
-    margin-right: 5px;
-    padding: 5px 20px 5px 20px;
+    padding: 5px 5px 5px 5px;
 }
